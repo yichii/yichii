@@ -1,5 +1,6 @@
 ## Hi there 👋
 
+[![roadmap.sh](https://roadmap.sh/card/tall/673c371939f50dbedc5a5069?variant=dark)](https://roadmap.sh)
 <!--
 **yichii/yichii** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
