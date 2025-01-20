@@ -1,10 +1,9 @@
-## Hi there 👋
+# yichii
 
-[![roadmap.sh](https://roadmap.sh/card/wide/673c371939f50dbedc5a5069?variant=dark)](https://roadmap.sh)
+- currently working on a Tank-themed CLI RPG
 
-- 🔭 I'm currently working on a Tank-themed CLI RPG
-- 🌱 I'm currently learning Java
-- 👯 I'm always open to meeting like-minded individuals
+- getting back the joy of programming by re-learning Java
+
 <!--
 **yichii/yichii** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
