@@ -1,6 +1,6 @@
 # yichii
 
-- currently working on a Tank-themed CLI RPG
+- currently working on a console-based Army Builder 
 
 - getting back the joy of programming by re-learning Java
 
